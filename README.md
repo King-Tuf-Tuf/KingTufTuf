@@ -16,7 +16,7 @@ sudo apt-get install libxtst-dev
 ### 1. Download Repo:
 ```
 Open Linux terminal then type:
-git clone https://github.com/Pesci-Apu/Nika
+git clone https://github.com/FaZe337/Nika3/edit/main/README.md
 ```
 
 ### 2. Get inside the folder
